@@ -1,3 +1,20 @@
+## Azure Kubernetes Service (AKS) Learning Project
+
+This project is implemented using an official Microsoft Azure sample application.
+I used this project to understand Kubernetes deployment, services, and AKS basics.
+
+## What I learned
+- Deploying containerized applications on AKS
+- Kubernetes deployment and service concepts
+- AKS cluster basics
+- Application monitoring overview
+
+## Tools Used
+- Microsoft Azure
+- Kubernetes (AKS)
+- Docker
+
+
 ---
 page_type: sample
 languages:
